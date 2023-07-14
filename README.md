@@ -51,3 +51,46 @@ src="https://github.com/Haoran-ryan/ryan_potfolio_v2/blob/main/public/QuizCraft.
 ---
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haoran-ryan&show_icons=true&theme=gruvbox)
+
+# 
+<details>
+<summary><b>🎓 My Education</b></summary>
+
+- **Master of Information Technology (Part-Time)**  
+  _May 2023 - Present_  
+  University of New South Wales  
+  - Admitted to program to further knowledge in advanced computing  
+
+- **Certificate of Software Engineering Immersive**  
+  _December 2022 - March 2023_  
+  General Assembly Australia  
+  - Completed 6 major full-stack web application projects  
+  - Developed knowledge in Agile Development principle and microservices development  
+  - Collaborated with other developers and the UX/UI team in 3 web application developments  
+
+- **Graduate Certificate in Computing**  
+  _February 2022 - November 2022_  
+  University of New South Wales  
+  - WAM: 72.25  
+  - Gained comprehensive training in algorithms, OOP in Python and discrete maths  
+
+- **Undergraduate Certificate in Data Engineering**  
+  _June 2017 - November 2018_  
+  TAFE NSW  
+  - Distinction on graduation  
+  - Conducted research and constructed knowledge and technical skills for design, implementation, and management of ‘big data’, data systems and infrastructure  
+  - Gained skills in Python, R for data analysis  
+
+- **Master of Conference Interpreting**  
+  _February 2017 - November 2018_  
+  Macquarie University  
+  - Distinction on graduation  
+  - Merged theoretical knowledge with hands-on conference interpreting experiences  
+
+- **Master of Translation and Interpreting Studies**  
+  _July 2010 - November 2011_  
+  University of New South Wales  
+  - Distinction on graduation  
+  - Developed translation and interpreting skills in Australian community settings  
+  - Acquired NAATI translator and interpreter credentials  
+</details>
