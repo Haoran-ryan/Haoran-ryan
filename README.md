@@ -54,7 +54,7 @@ src="https://github.com/Haoran-ryan/ryan_potfolio_v2/blob/main/public/QuizCraft.
 
 # 
 <details>
-<summary><b>🎓 My Education</b></summary>
+<summary><h3>🎓 My Education</h3></summary>
 
 - **Master of Information Technology (Part-Time)**  
   _May 2023 - Present_  
@@ -93,4 +93,35 @@ src="https://github.com/Haoran-ryan/ryan_potfolio_v2/blob/main/public/QuizCraft.
   - Distinction on graduation  
   - Developed translation and interpreting skills in Australian community settings  
   - Acquired NAATI translator and interpreter credentials  
+</details>
+
+#
+---
+<details>
+<summary><h3>👔 Previous Work Experience</h3></summary>
+
+- **Community Interpreter**  
+  _June 2013 - Present_  
+  Oncall Interpreters  
+  - Interpreted over 2000 cases in various professional settings including legal, healthcare, governmental, and business sectors  
+  - Received up to 90% positive feedback, demonstrating ability to meet and exceed customer expectations  
+
+- **Conference Interpreter**  
+  _September 2016 - Present_  
+  Freelance  
+  - Provided simultaneous interpretation services for over 200 professional events in finance, technology and health  
+  - Trusted and engaged by high-profile clients including Australian Prime Minister, Reserve Bank of Australia, and Pfizer, showing reliability and professionalism  
+
+- **Academic Manager**  
+  _January 2022 - January 2023_  
+  Sydney Institute of Interpreting and Translating  
+  - Managed 50 tutors and 1000 students across three campuses for academic performance and compliance  
+  - Initiated and managed an eLearning suite with collaboration with an external IT team, gaining experience in managing technology-focused projects  
+
+- **Head Trainer & Tutor**  
+  _June 2012 - January 2023_  
+  Sydney Institute of Interpreting and Translating, Sydney  
+  - Developed teaching and assessment materials for 3 programs, showcasing abilities in creating technical content  
+  - Supervised and tracked over 100 cohorts and helped 2000+ students acquire NAATI credentials, illustrating a high level of organization and effectiveness  
+  - Awarded the Employee of Year in 2016 and 2020 recognition for work performance in delivering teaching sessions and helping students achieve academic goals  
 </details>
