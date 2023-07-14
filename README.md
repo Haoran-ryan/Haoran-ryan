@@ -54,7 +54,7 @@ src="https://github.com/Haoran-ryan/ryan_potfolio_v2/blob/main/public/QuizCraft.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haoran-ryan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 
-##More About Me
+## More About Me
 <details>
 <summary><h3>🎓 My Education</h3></summary>
 
