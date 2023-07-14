@@ -50,9 +50,11 @@ src="https://github.com/Haoran-ryan/ryan_potfolio_v2/blob/main/public/QuizCraft.
 #
 ---
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haoran-ryan&show_icons=true&theme=gruvbox)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haoran-ryan&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haoran-ryan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 
+##More About Me
 <details>
 <summary><h3>🎓 My Education</h3></summary>
 
@@ -96,7 +98,7 @@ src="https://github.com/Haoran-ryan/ryan_potfolio_v2/blob/main/public/QuizCraft.
 </details>
 
 #
----
+
 <details>
 <summary><h3>👔 Previous Work Experience</h3></summary>
 
