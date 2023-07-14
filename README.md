@@ -39,6 +39,7 @@
 <img align="left" alt="GitHub" width="60px" style="padding-right:10px;"
 src="https://github.com/Haoran-ryan/ryan_potfolio_v2/blob/main/public/TutoNet.png" >
 </a>
+<br/>
 
 #### QuizCraft | ReactJS, CSS, FireStore
 <a href="https://quizcraft-c8706.web.app/">
@@ -46,4 +47,6 @@ src="https://github.com/Haoran-ryan/ryan_potfolio_v2/blob/main/public/TutoNet.pn
 src="https://github.com/Haoran-ryan/ryan_potfolio_v2/blob/main/public/QuizCraft.png" >
 </a>
 
+---
+# 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haoran-ryan&show_icons=true&theme=gruvbox)
