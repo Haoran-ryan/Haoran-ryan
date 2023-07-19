@@ -34,18 +34,23 @@
 ---
 ### 🥑My Projects 
 
-#### TutoNet | Vue3, QuasarFramework, Supabase
-<a href="https://dulcet-stroopwafel-07ade2.netlify.app" targe="_blank">
-<img align="center" alt="GitHub" width="300px" style="padding-right:10px;"
-src="https://github.com/Haoran-ryan/ryan_potfolio_v2/blob/main/public/TutoNet.png" >
-</a>
-<br/>
+<table>
+  <tr>
+    <td>
+        <strong>TutoNet | Vue3, QuasarFramework, Supabase</strong><br/>
+        <a href="https://dulcet-stroopwafel-07ade2.netlify.app" targe="_blank">
+            <img align="center" alt="TutoNet" width="300px" style="padding-right:10px;" src="https://github.com/Haoran-ryan/ryan_potfolio_v2/blob/main/public/TutoNet.png" >
+        </a>
+    </td>
+    <td>
+        <strong>QuizCraft | ReactJS, CSS, FireStore</strong><br/>
+        <a href="https://quizcraft-c8706.web.app/" targe="_blank">
+            <img align="center" alt="QuizCraft" width="300px" style="padding-right:10px;" src="https://github.com/Haoran-ryan/ryan_potfolio_v2/blob/main/public/QuizCraft.png" >
+        </a>
+    </td>
+  </tr>
+</table>
 
-#### QuizCraft | ReactJS, CSS, FireStore
-<a href="https://quizcraft-c8706.web.app/" targe="_blank">
-<img align="center" alt="GitHub" width="300px" style="padding-right:10px;"
-src="https://github.com/Haoran-ryan/ryan_potfolio_v2/blob/main/public/QuizCraft.png" >
-</a>
 
 #
 ---
