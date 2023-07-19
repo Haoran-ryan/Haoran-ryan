@@ -16,7 +16,10 @@
         <img alt="Mail" title="Send me an Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
     </a>
    <a href="#">
+       ![LGBTQ+ Friendly][badge-lgbtq]
+       ```
        https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982
+       ```
    </a>
 </p>
 
