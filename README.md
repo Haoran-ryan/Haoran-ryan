@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/ryanhaoranguo/" targe="_blank">
         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="#" targe="_blank">
+    <a href="https://ryanguo.netlify.app/" targe="_blank">
         <img title="My Portofolio Site" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
     </a>
     <a href="mailto:gryan@outlook.com.au">
