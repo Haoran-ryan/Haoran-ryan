@@ -40,6 +40,12 @@
 
 <table>
   <tr>
+      <td>
+        <strong>Personal Portfolio | React, Motion CSS</strong><br/>
+        <a href="https://ryanguo.netlify.app/" targe="_blank">
+            <img align="center" alt="TutoNet" width="300px" style="padding-right:10px;" src="./personal.png" >
+        </a>
+    </td>
     <td>
         <strong>TutoNet | Vue3, QuasarFramework, Supabase</strong><br/>
         <a href="https://dulcet-stroopwafel-07ade2.netlify.app" targe="_blank">
